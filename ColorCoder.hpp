@@ -1,5 +1,6 @@
 #ifndef COLORCODER_HPP
 #define COLORCODER_HPP
+#include "ColorPair.hpp"
 
 namespace TelCoColorCoder {
     extern const char* MajorColorNames[];
